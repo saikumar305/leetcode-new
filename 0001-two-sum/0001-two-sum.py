@@ -1,17 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        mapper = {}
-        for i, num in enumerate(nums):
-            if (target - num) in mapper:
-                return i, mapper[target-num]
-            
-            mapper[num] = i
+        seen = {}
+        for i, v in enumerate(nums):
+            remaining = target - v
+            if remaining in seen:
+                return [seen[remaining], i]
+            seen[v] = i
+        return []
 
-
-
-            
-                 
-            
-        
-
-        
