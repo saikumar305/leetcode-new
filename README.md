@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-new/tree/master/0020-valid-parentheses) |
+| [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-new/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
