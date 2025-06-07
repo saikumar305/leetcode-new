@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/saikumar305/leetcode-new/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-new/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saikumar305/leetcode-new/tree/master/0042-trapping-rain-water) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumar305/leetcode-new/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saikumar305/leetcode-new/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumar305/leetcode-new/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -49,10 +51,20 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
