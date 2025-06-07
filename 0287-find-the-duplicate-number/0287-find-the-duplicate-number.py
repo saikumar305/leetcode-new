@@ -21,8 +21,6 @@ class Solution:
             if slow == fast:
                 break
 
-        print(slow, fast)
-
         slow1 = 0
 
         while True:
