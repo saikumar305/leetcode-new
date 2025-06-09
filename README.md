@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saikumar305/leetcode-new/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikumar305/leetcode-new/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-new/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saikumar305/leetcode-new/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikumar305/leetcode-new/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikumar305/leetcode-new/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saikumar305/leetcode-new/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
