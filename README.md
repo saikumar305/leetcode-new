@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-new/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saikumar305/leetcode-new/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikumar305/leetcode-new/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumar305/leetcode-new/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikumar305/leetcode-new/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
