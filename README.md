@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saikumar305/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-new/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
 | [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
@@ -35,12 +36,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saikumar305/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-new/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saikumar305/leetcode-new/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saikumar305/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saikumar305/leetcode-new/tree/master/0042-trapping-rain-water) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
 ## Monotonic Stack
