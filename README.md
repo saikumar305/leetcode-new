@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/saikumar305/leetcode-new/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikumar305/leetcode-new/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saikumar305/leetcode-new/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
