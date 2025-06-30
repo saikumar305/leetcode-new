@@ -32,6 +32,7 @@
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-new/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/saikumar305/leetcode-new/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/saikumar305/leetcode-new/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/saikumar305/leetcode-new/tree/master/0541-reverse-string-ii) |
 | [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
