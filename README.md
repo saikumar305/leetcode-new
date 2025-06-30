@@ -79,6 +79,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikumar305/leetcode-new/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saikumar305/leetcode-new/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/saikumar305/leetcode-new/tree/master/0374-guess-number-higher-or-lower) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
 ## Math
 |  |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/saikumar305/leetcode-new/tree/master/0326-power-of-three) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/saikumar305/leetcode-new/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
