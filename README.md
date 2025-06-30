@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/saikumar305/leetcode-new/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikumar305/leetcode-new/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/saikumar305/leetcode-new/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/saikumar305/leetcode-new/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumar305/leetcode-new/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
 ## String
@@ -30,6 +31,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saikumar305/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-new/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/saikumar305/leetcode-new/tree/master/0079-word-search) |
+| [0387-first-unique-character-in-a-string](https://github.com/saikumar305/leetcode-new/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/saikumar305/leetcode-new/tree/master/0541-reverse-string-ii) |
 | [0800-letter-case-permutation](https://github.com/saikumar305/leetcode-new/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/saikumar305/leetcode-new/tree/master/0808-number-of-matching-subsequences) |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/saikumar305/leetcode-new/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saikumar305/leetcode-new/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saikumar305/leetcode-new/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
